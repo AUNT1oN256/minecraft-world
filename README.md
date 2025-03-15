@@ -1,7 +1,7 @@
 # Використання шаблону в майбутніх проєктах
 Щоб виконати цей шаблон у новому проєкті, виконайте у командному рядочкові наступний код:
 ```bash
-git clone https://github.com/KsiuTretyakova/react-template.git new-project
+git clone https://github.com/AUNT1oN256/react-template.git new-project
 ```
 ```bash
 cd new-project
